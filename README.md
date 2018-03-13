@@ -1,6 +1,6 @@
 ## NodeMSGR
 
-Simple Node Open Messeging App
+Simple Open Node Messaging App
 
 #### Install
 
